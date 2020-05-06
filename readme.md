@@ -4,7 +4,7 @@
 
 <h1 aling="center"> Desafio conceitos do ReactJS </h1>
 
-### 🎞Demo
+### 🎞Preview
 
 ![desafio frontend](https://user-images.githubusercontent.com/52186505/81192298-6c1b1c00-8f90-11ea-807d-41be752a5d5f.gif)
 
